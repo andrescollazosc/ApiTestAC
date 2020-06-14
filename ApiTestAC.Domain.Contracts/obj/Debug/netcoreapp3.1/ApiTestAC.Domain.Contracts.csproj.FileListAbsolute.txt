@@ -1,0 +1,9 @@
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.deps.json
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.pdb
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.AssemblyInfo.cs
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.pdb

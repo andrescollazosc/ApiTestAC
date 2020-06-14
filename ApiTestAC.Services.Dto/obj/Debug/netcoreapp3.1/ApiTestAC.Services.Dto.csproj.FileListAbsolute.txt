@@ -1,0 +1,9 @@
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\bin\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.deps.json
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\bin\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\bin\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.pdb
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\obj\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\obj\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\obj\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\obj\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.AssemblyInfo.cs
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\obj\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Services.Dto\obj\Debug\netcoreapp3.1\ApiTestAC.Services.Dto.pdb

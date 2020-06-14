@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApiTestAC.Domain.Entities/1.0.0": {
+        "runtime": {
+          "ApiTestAC.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiTestAC.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

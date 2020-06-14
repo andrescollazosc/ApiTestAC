@@ -1,0 +1,9 @@
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.deps.json
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.pdb
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.AssemblyInfo.cs
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Domain.Operator\obj\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.pdb

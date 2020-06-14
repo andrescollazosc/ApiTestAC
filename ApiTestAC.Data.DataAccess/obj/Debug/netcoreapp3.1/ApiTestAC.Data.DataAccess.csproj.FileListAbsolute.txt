@@ -1,0 +1,17 @@
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.deps.json
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.AssemblyInfo.cs
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.runtimeconfig.json
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.runtimeconfig.dev.json
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.genruntimeconfig.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.pdb
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.pdb
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.dll
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Contracts.pdb
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiTestAC.Domain.Entities.pdb
+C:\Users\Andres\source\repos\ApiTestAC\ApiTestAC.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiTestAC.Data.DataAccess.csproj.CopyComplete
